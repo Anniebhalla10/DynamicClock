@@ -1,0 +1,10 @@
+body{
+    background-color: #b1cbbb;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+#showClock{
+    font-size: 200px;
+}
